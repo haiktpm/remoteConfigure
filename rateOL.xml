@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>DiepIO</key>
-	<string>1</string>
+	<string>0</string>
 	<key>TankIO</key>
 	<string>1</string>
 </dict>
